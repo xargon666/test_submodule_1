@@ -1,0 +1,6 @@
+[submodule "Client_lap4_project"]
+	path = Client_lap4_project
+	url = https://github.com/Aaron-Marsh/Client_lap4_project.git
+[submodule "Server_lap4_project"]
+	path = Server_lap4_project
+	url = https://github.com/Aaron-Marsh/Server_lap4_project.git
